@@ -1,6 +1,6 @@
 # Personal Portfolio v1.0.0
 
-![My project](https://github.com/Harshvardhanrathod/harshvardhanrathod)
+[My project](https://github.com/Harshvardhanrathod/harshvardhanrathod)
 
 Features 📋
 ⚡️ Fully Responsive
